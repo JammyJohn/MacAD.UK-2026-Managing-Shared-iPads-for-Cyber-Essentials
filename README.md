@@ -23,9 +23,7 @@
 	- [Jamf Pro Changelog](https://developer.jamf.com/jamf-pro/changelog)
 - JNUC 2025 Sessions
 	- [Effortless Shared iPad Management: Jamf Setup, Reset, and Entra Shared Device Mode](https://www.youtube.com/watch?v=JGj0wGqVH18&t=1s) from Andrew Myers and Sam Gibbs at Alectrona
- - “Effortless Shared iPad Management: Jamf Setup, Reset, and Entra Shared Device Mode” from Andrew Myers and Sam Gibbs at Alectrona
-	- [Jamf Pro Recipes](https://developer.jamf.com/jamf-pro/recipes)
-	- [Jamf Pro Changelog](https://developer.jamf.com/jamf-pro/changelog)
+	- [Return to Service App: Reset iOS Devices in One Tap with App Preservation](https://www.youtube.com/watch?v=rpLr45hdBPU&t=1s) from Adam Derrick and Aaron Maxim at Jamf
 
 ## 👉UK HE Apple Admins
 
