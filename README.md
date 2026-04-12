@@ -11,8 +11,8 @@
 - Apps
 	- [Jamf Setup](https://apps.apple.com/gb/app/jamf-setup/id1391310596)
 	- [Jamf Reset](https://apps.apple.com/gb/app/jamf-reset/id1438242417)
-	- [Jamf Return to Service](https://apps.apple.com/gb/app/microsoft-authenticator/id983156458)
-	- [Microsoft Authenticator](https://developer.jamf.com/jamf-pro/changelog)
+	- [Jamf Return to Service](https://apps.apple.com/gb/app/jamf-return-to-service/id6466500496)
+	- [Microsoft Authenticator](https://apps.apple.com/gb/app/microsoft-authenticator/id983156458)
 - Jamf Documentation
 	- [Device Compliance for Shared Devices](https://learn.jamf.com/r/en-US/technical-paper-microsoft-intune-current/Device_Compliance_for_Shared_Devices_Overview)
 	- [Jamf Setup and Reset Configuration Guide](https://learn.jamf.com/r/en-US/jamf-setup-reset-configuration-guide/Overview)
