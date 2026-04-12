@@ -8,8 +8,8 @@
 
 ## 📚Documentation
 
-- Jamf Developer
-	- [Marketplace](https://marketplace.jamf.com/)
+- Apps
+	- [Jamf Setup](https://apps.apple.com/gb/app/jamf-setup/id1391310596)
 	- [Jamf Pro Recipes](https://developer.jamf.com/jamf-pro/recipes)
 	- [Jamf Pro Changelog](https://developer.jamf.com/jamf-pro/changelog)
 - Jamf Pro - Swagger API: add `/api/` to the base URL of your Jamf Pro Server, e.g `example.jamfcloud.com/api/`
