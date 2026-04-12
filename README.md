@@ -10,17 +10,17 @@
 
 - Apps
 	- [Jamf Setup](https://apps.apple.com/gb/app/jamf-setup/id1391310596)
-	- [Jamf Reset](https://developer.jamf.com/jamf-pro/recipes)
-	- [Jamf Return to Service](https://developer.jamf.com/jamf-pro/changelog)
+	- [Jamf Reset](https://apps.apple.com/gb/app/jamf-reset/id1438242417)
+	- [Jamf Return to Service](https://apps.apple.com/gb/app/microsoft-authenticator/id983156458)
 	- [Microsoft Authenticator](https://developer.jamf.com/jamf-pro/changelog)
 - Jamf Documentation
-	- [Jamf Setup](https://apps.apple.com/gb/app/jamf-setup/id1391310596)
-	- [Jamf Pro Recipes](https://developer.jamf.com/jamf-pro/recipes)
-	- [Jamf Pro Changelog](https://developer.jamf.com/jamf-pro/changelog)
+	- [Device Compliance for Shared Devices](https://learn.jamf.com/r/en-US/technical-paper-microsoft-intune-current/Device_Compliance_for_Shared_Devices_Overview)
+	- [Jamf Setup and Reset Configuration Guide](https://learn.jamf.com/r/en-US/jamf-setup-reset-configuration-guide/Overview)
+	- [Jamf Return to Service App Admin Guide](https://s3.us-west-2.amazonaws.com/jamfse.io/Jamf+Return+to+Service+-+Guide.pdf)
 - Microsoft Documentation
-	- [Jamf Setup](https://apps.apple.com/gb/app/jamf-setup/id1391310596)
-	- [Jamf Pro Recipes](https://developer.jamf.com/jamf-pro/recipes)
-	- [Jamf Pro Changelog](https://developer.jamf.com/jamf-pro/changelog)
+	- [Overview of the Microsoft Authentication Library (MSAL)](https://learn.microsoft.com/en-us/entra/identity-platform/msal-overview)
+	- [Applications that support Microsoft Entra shared device mode (SDM)](https://learn.microsoft.com/en-us/entra/msal/objc/shared-devices-ios?source=recommendations#microsoft-applications-that-support-shared-device-mode)
+	- [Configure Microsoft 365 apps on iOS for shared device mode](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/configure-shared-device-mode)
 - JNUC 2025 Sessions
 	- [Effortless Shared iPad Management: Jamf Setup, Reset, and Entra Shared Device Mode](https://www.youtube.com/watch?v=JGj0wGqVH18&t=1s) from Andrew Myers and Sam Gibbs at Alectrona
 	- [Return to Service App: Reset iOS Devices in One Tap with App Preservation](https://www.youtube.com/watch?v=rpLr45hdBPU&t=1s) from Adam Derrick and Aaron Maxim at Jamf
