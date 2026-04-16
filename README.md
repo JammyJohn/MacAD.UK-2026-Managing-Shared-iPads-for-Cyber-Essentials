@@ -21,7 +21,7 @@
 	- [Overview of the Microsoft Authentication Library (MSAL)](https://learn.microsoft.com/en-us/entra/identity-platform/msal-overview)
 	- [Applications that support Microsoft Entra shared device mode (SDM)](https://learn.microsoft.com/en-us/entra/msal/objc/shared-devices-ios?source=recommendations#microsoft-applications-that-support-shared-device-mode)
 	- [Configure Microsoft 365 apps on iOS for shared device mode](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/configure-shared-device-mode)
-	- [Microsoft Edge - Policies]([https://learn.microsoft.com/en-us/microsoft-365-apps/mac/configure-shared-device-mode](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies))
+	- [Microsoft Edge - Policies]([https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies)
 - JNUC 2025 Sessions
 	- [Effortless Shared iPad Management: Jamf Setup, Reset, and Entra Shared Device Mode](https://www.youtube.com/watch?v=JGj0wGqVH18&t=1s) from Andrew Myers and Sam Gibbs at Alectrona
 	- [Return to Service App: Reset iOS Devices in One Tap with App Preservation](https://www.youtube.com/watch?v=rpLr45hdBPU&t=1s) from Adam Derrick and Aaron Maxim at Jamf
