@@ -4,7 +4,7 @@
 
 ## 🛝 Slides
 
-- [Managing Shared iPads for Cyber Essentials](MacAD.UK-2026-Managing-Shared-iPads-for-Cyber-Essentials-Slides.pdf)
+- [Managing Shared iPads for Cyber Essentials](MacAD.UK-2026-Managing-Shared-iPads-for-Cyber-Essentials.pdf)
 
 ## 📚Documentation
 
